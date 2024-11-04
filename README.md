@@ -22,4 +22,3 @@ waybackurlsのようなもの より高機能
 ## wasm on psp
 pspへのwasm移植
 
-## zero-tick-minecraft-HDL
